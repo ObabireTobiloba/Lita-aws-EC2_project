@@ -14,7 +14,7 @@ Defining the inbound and outbound rules: Allow HTTP and SSH
 !{NACL} (/img_
 ### Created Security Group: Security Group is a set of rules that define what traffic is allowed to flow in and out of your AWS resources.
 Created security group with inbound rules to allow......traffic.
-### Launch EC2 instances
+### Launch EC2 instances: I selected Amazon Linux 2(HVM) - Kernel 5.10, SSD Volume Type and i aslo created a keypair and i also used a public subnet for it.
 !{ec2 instance} (/IMG
-### Launching of Apache
+### Launching of Apache: I used command prompt in lauching this apache.
 !{apache} (IMG_4316 and IMG _4311)
