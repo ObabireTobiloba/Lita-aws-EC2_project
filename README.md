@@ -5,9 +5,16 @@ VPC was created to house my resouces in the AWS environment.It is a virtual netw
 !{vpc detail} [/IMG_4382.JPEG] 
 ### Subnet Creation
 I created 2 subnets, Public and Private Subnet
-#### Private Subnet
-!{private subnet} {/
-#### Public Subnet
+#### Private Subnet (CIDR-10.0.2.0/24)
+!{private subnet} 
+#### Public Subnet  (CIDR-10.0.1.0/24)
 !{public subnet} (/IMG_4385.jpeg)
+### Configuration of the Network Access Control List (NACL)
+Defining the inbound and outbound rules: Allow HTTP and SSH
+!{NACL} (/img_
 ### Created Security Group: Security Group is a set of rules that define what traffic is allowed to flow in and out of your AWS resources.
 Created security group with inbound rules to allow......traffic.
+### Launch EC2 instances
+!{ec2 instance} (/IMG
+### Launching of Apache
+!{apache} (IMG_4316 and IMG _4311)
