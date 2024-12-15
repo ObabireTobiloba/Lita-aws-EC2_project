@@ -22,4 +22,4 @@ I selected Amazon Linux 2(HVM) - Kernel 5.10, SSD Volume Type and i aslo created
 ![AMI ID and name](https://github.com/ObabireTobiloba/Lita-aws-EC2_project-smartshop/blob/main/AMI%20ID%20and%20name.png)
 # Launching of Apache: I used command prompt in lauching this apache.
 ![GITBASH](https://github.com/ObabireTobiloba/Lita-aws-EC2_project-smartshop/blob/main/GITBASH.jpg)
-![APACHE]
+![APACHE](https://github.com/ObabireTobiloba/Lita-aws-EC2_project-smartshop/blob/main/APACHE.jpg)
